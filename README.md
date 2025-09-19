@@ -14,3 +14,5 @@ Si se añade un nombre y la casilla está vacia manda una alerta
 Sorteo realizado y nombre elegido!
 <img width="1366" height="720" alt="Amigo Secreto - Personal_ Microsoft​ Edge 18_9_2025 23_50_32" src="https://github.com/user-attachments/assets/6ccea869-845a-48a7-beab-138a6c88ee4e" />
 
+## Autor
+Micaela ([MicaLancie](https://github.com/MicaLancie))
